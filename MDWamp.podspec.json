@@ -26,7 +26,8 @@
     },
     "version": "2.2.5",
     "source": {
-        "git": "https://github.com/whoislyuboanyway/MDWamp.git"
+        "git": "https://github.com/whoislyuboanyway/MDWamp.git",
+        "tag": "2.2.5"
     },
     "dependencies": {
         "CocoaAsyncSocket": [],
