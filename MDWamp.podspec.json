@@ -26,7 +26,7 @@
     },
     "version": "2.2.4",
     "source": {
-        "git": "https://github.com/mogui/MDWamp.git",
+        "git": "https://github.com/whoislyuboanyway/MDWamp.git",
         "tag": "2.2.4"
     },
     "dependencies": {
